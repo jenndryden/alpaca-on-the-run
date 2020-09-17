@@ -9,7 +9,7 @@ Alpaca On The Run
 In Alpaca on the Run, you play as an alpaca character called Mr. Floof. The mission of the game is to obtain the highest amount of points you can while running. As your level increases, based on the number of points you have, the speed of the level increases as well as the difficulty of the game. You will lose the game if your health depletes entirely, reaching zero. The health bar appears at the top right of the screen.
 
 
-#HOW TO PLAY:
+# HOW TO PLAY:
 
 Jumping
 Ducking
